@@ -1,0 +1,13 @@
+input {
+  width: auto;
+  margin: 10px 0;
+  border: none;
+}
+.AddBtn {
+  width: 90%;
+  padding: 5px;
+  margin: 10px;
+  border: dodgerblue 2px solid;
+  background-color: white;
+  border-radius: 20px;
+}
